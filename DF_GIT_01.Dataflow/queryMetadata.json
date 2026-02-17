@@ -4,5 +4,18 @@
   "name": "DF_GIT_01",
   "queryGroups": [],
   "documentLocale": "en-GB",
-  "connections": []
+  "gatewayObjectId": "baec96a2-a672-4fb3-b83b-7235cb07ce19",
+  "queriesMetadata": {
+    "BI_QS_PROD_HRU_New_FF_View_NAVFO_BH": {
+      "queryId": "0a5ec163-4f8d-4b0c-9cd8-45ecd34bdec1",
+      "queryName": "BI_QS_PROD_HRU_New_FF_View_NAVFO_BH"
+    }
+  },
+  "connections": [
+    {
+      "path": "lgvsd0136;DATA_NAVFO",
+      "kind": "SQL",
+      "connectionId": "{\"ClusterId\":\"baec96a2-a672-4fb3-b83b-7235cb07ce19\",\"DatasourceId\":\"d32fa5b4-1280-4bb8-b145-b03998b566a4\"}"
+    }
+  ]
 }
